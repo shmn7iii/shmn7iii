@@ -3,16 +3,17 @@
 </h1>
 
 <h3 align="center">
-  A university student from Japan.
+  A university student learning information engineering from Japan.
 </h3>
+
 
 - 🔧 I'm usually make Minecraft plugins.
 
-- 🌱 I’m currently learning **Python, C#, C++**
+- 🌱 I’m currently learning **Python, C#, C++**.
 
-- 👨‍💻 All of my projects are available at [https://www.shmn7iii.net](https://www.shmn7iii.net)
+- 👨‍💻 All of my projects are available at [**https://www.shmn7iii.net**](https://www.shmn7iii.net)
 
-- 📝 I regularly write articles on [https://qiita.com/shmn7iii](https://qiita.com/shmn7iii)
+- 📝 I regularly write articles on [**https://qiita.com/shmn7iii**](https://qiita.com/shmn7iii)
 
 - 📫 How to reach me **shmn7iii@gmail.com**
 
