@@ -3,9 +3,11 @@
 </h1>
 
 <h3 align="center">
-  A university student learning information engineering from Japan.
+  A college student learning information engineering from Japan.
 </h3>
 
+
+- 🎺 My name? I use "shmn7iii" as user ID and "StouAoi" or "⌫" as name. 
 
 - 🔧 I'm usually make Minecraft plugins.
 
