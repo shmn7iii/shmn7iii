@@ -8,7 +8,7 @@
 
 - 🎺 My name? I usually use "shmn7iii" as user ID and use "⌫" as name. 
 
-- 🔧 I usually make Minecraft plugins, Discord BOT, and so on.
+- 🔧 I usually make Minecraft plugins, Discord BOT, and so on.　*Most of the repositories have been changed to private due to personal reasons
 
 - 🌱 I’m currently learning **Python, C#, C++**.
 
