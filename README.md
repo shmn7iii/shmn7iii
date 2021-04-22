@@ -6,6 +6,7 @@
   A college student learning information engineering from Japan.
 </h3>
 
+![logo](https://github.com/shmn7iii/shmn7iii/blob/main/logo_trim.png)
 
 - 🎺 My name? I usually use "shmn7iii" as user ID and "StouAoi" or "⌫" as name. 
 
