@@ -7,9 +7,9 @@
 </h3>
 
 
-- 🎺 My name? I use "shmn7iii" as user ID and "StouAoi" or "⌫" as name. 
+- 🎺 My name? I usually use "shmn7iii" as user ID and "StouAoi" or "⌫" as name. 
 
-- 🔧 I'm usually make Minecraft plugins.
+- 🔧 I usually make Minecraft plugins.
 
 - 🌱 I’m currently learning **Python, C#, C++**.
 
