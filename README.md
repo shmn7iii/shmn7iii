@@ -6,17 +6,17 @@
   A college student learning information engineering from Japan.
 </h3>
 
-- 🎺 My name? I usually use "shmn7iii" as user ID and use "⌫" as name. 
+- 🎺  My name? I usually use "shmn7iii" as user ID and use "⌫" as name. 
 
-- 🔧 I usually make Minecraft plugins, Discord BOT, and so on.　
+- 🔧  I usually make Minecraft plugins, Discord BOT, and so on.　
 
-- 🌱 I’m currently learning **Python, C#, C++**.
+- 🌱  I’m currently learning **Python, C#, C++**.
 
-- 👨‍💻 All of my projects are available at [**https://www.shmn7iii.net**](https://www.shmn7iii.net)
+- 👨‍💻  All of my projects are available at [**https://www.shmn7iii.net**](https://www.shmn7iii.net)
 
-- 📝 I regularly write articles on [**https://qiita.com/shmn7iii**](https://qiita.com/shmn7iii)  and  [**https://note.com/shmn7iii**](https://note.com/shmn7iii)
+- 📝  I regularly write articles on [**https://qiita.com/shmn7iii**](https://qiita.com/shmn7iii)  and  [**https://note.com/shmn7iii**](https://note.com/shmn7iii)
 
-- 📫 How to reach me : **shmn7iii@gmail.com**
+- 📫  How to reach me : **shmn7iii@gmail.com**
 
 *Most of the repositories have been changed to private due to personal reasons
 
