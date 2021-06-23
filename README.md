@@ -14,7 +14,7 @@
 
 - 👨‍💻  All of my projects are available at [**https://www.shmn7iii.net**](https://www.shmn7iii.net)
 
-- 📝  I regularly write articles on [**https://qiita.com/shmn7iii**](https://qiita.com/shmn7iii)  and  [**https://note.com/shmn7iii**](https://note.com/shmn7iii)
+- 📝  I regularly write articles on [**https://note.com/shmn7iii**](https://note.com/shmn7iii)
 
 - 📫  How to reach me : **shmn7iii@gmail.com**
 
