@@ -1,12 +1,11 @@
 <h1 align="center">
-  Hi 👋, I'm shmn7iii
+  Hello.
 </h1>
 
 <h3 align="center">
-  A college student learning information engineering from Japan.
+  I'm shmn7iii from Japan.
 </h3>
 
-- 🎺  My name? I usually use "shmn7iii" as user ID and use "⌫" as name. 
 
 - 🔧  I usually make Minecraft plugins, Discord BOT, and so on.　
 
