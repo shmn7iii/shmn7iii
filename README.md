@@ -1,10 +1,9 @@
-<h1 align="center">
-  Hello.
-</h1>
 
-<h3 align="center">
-  I'm shmn7iii from Japan.
-</h3>
+![logo](https://github.com/shmn7iii/shmn7iii/blob/main/logo_1920*1080_sa.png)
+
+<h1 align="center">
+  Hello, from Japan.
+</h1>
 
 
 - 🔧  I usually make Minecraft plugins, Discord BOT, and so on.　
