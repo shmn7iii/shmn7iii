@@ -1,6 +1,3 @@
-
-![logo](https://github.com/shmn7iii/shmn7iii/blob/main/logo_1920*1080_sa.png)
-
 <h1 align="center">
   Hello, from Japan.
 </h1>
@@ -8,15 +5,9 @@
 
 - 🔧  I usually make Minecraft plugins, Discord BOT, and so on.　
 
-- 🌱  I’m currently learning **Python, C#, C++**.
+- 🌱  I’m currently learning **Java, Python, C#, **.
 
-- 👨‍💻  All of my projects are available at [**https://www.shmn7iii.net**](https://www.shmn7iii.net)
-
-- 📝  I regularly write articles on [**https://note.com/shmn7iii**](https://note.com/shmn7iii)
-
-- 📫  How to reach me : **shmn7iii@gmail.com**
-
-*Most of the repositories have been changed to private due to personal reasons
+- 👨‍💻  If you want to know about me more, please visit: [**https://www.shmn7iii.net**](https://www.shmn7iii.net)
 
 <h3 align="left">
   Languages and Tools:
@@ -44,11 +35,4 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   </a> 
  
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-  </a>
- 
-  <a href="https://www.blender.org/" target="_blank"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
 </p>
