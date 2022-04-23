@@ -1,8 +1,14 @@
-<h1 align="center"> Hello, from Japan ✌️ </h1>
+## Hello, from Japan ✌️
 
+### 🗺️ Links
+**・My site**: https://www.shmn7iii.net  
+**・Blog**: https://blog.shmn7iii.net  
+**・Zenn**: https://zenn.dev/shmn7iii  
 
-<p> My site: https://www.shmn7iii.net </p>
+### 👾 Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shmn7iii&layout=compact&langs_count=4&hide=markdown,html)](https://github.com/anuraghazra/github-readme-stats)
 
-<p> Blog: https://blog.shmn7iii.net </p>
+Java, Python, Ruby, Go
 
-<p> Zenn: https://zenn.dev/shmn7iii </p>
+### ☎️ Contact
+**Twitter**: https://twitter.com/shmn7iii
