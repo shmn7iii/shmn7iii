@@ -8,9 +8,7 @@ Portfolio: https://www.shmn7iii.net
 Blog: https://blog.shmn7iii.net  
 Zenn: https://zenn.dev/shmn7iii  
 
-**👾 Languages**
-
-Java, Python, Ruby, Go  
+**👾 Stats**
 
 <p align=left>
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=shmn7iii&hide=stars&count_private=true&show_icons=true" />
