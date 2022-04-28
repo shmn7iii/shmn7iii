@@ -12,6 +12,7 @@ Zenn: https://zenn.dev/shmn7iii
 
 Java, Python, Ruby, Go  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shmn7iii&layout=compact&langs_count=4&hide=markdown,html)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<p align=left>
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=shmn7iii&hide=stars&count_private=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmn7iii&layout=compact&langs_count=4&hide=markdown,html" />
+</p>
