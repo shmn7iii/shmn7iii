@@ -11,6 +11,6 @@ Hello from Japan! I am a university student in Fukuoka, shmn7iii. I usually stud
 **👾 Stats**
 
 <p align=left>
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=shmn7iii&hide=stars&count_private=true&show_icons=true&theme=graywhite" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmn7iii&layout=compact&langs_count=4&hide=markdown,html&theme=graywhite" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=shmn7iii&hide=stars&hide_rank=true&hide_title=true&hide_border=true&count_private=true&show_icons=true&theme=graywhite" />
+  <img alt="Top Langs" height="140px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmn7iii&layout=compact&langs_count=4&hide=markdown,html&hide_border=true&theme=graywhite" />
 </p>
