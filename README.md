@@ -3,14 +3,14 @@ Hello from Japan! I am a university student in Fukuoka, shmn7iii. I usually stud
 
 **🗺️ Links**
 
-Twitter: https://twitter.com/shmn7iii  
-Portfolio: https://www.shmn7iii.net  
-Blog: https://blog.shmn7iii.net  
-Zenn: https://zenn.dev/shmn7iii  
+**Twitter**: https://twitter.com/shmn7iii  
+**Portfolio**: https://www.shmn7iii.net  
+**Blog**: https://blog.shmn7iii.net  
+**Zenn**: https://zenn.dev/shmn7iii  
 
 **👾 Stats**
 
 <p align=left>
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=shmn7iii&hide=stars&count_private=true&show_icons=true" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmn7iii&layout=compact&langs_count=4&hide=markdown,html" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=shmn7iii&hide=stars&count_private=true&show_icons=true&theme=graywhite" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmn7iii&layout=compact&langs_count=4&hide=markdown,html&theme=graywhite" />
 </p>
