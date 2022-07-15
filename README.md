@@ -1,5 +1,4 @@
 ## Hello, from Japan ✌️
-Hello from Japan! I am a university student in Fukuoka, shmn7iii. I usually study blockchain at university and do programming as a hobby.
 
 **🗺️ Links**
 
