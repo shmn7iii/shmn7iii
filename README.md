@@ -5,6 +5,6 @@
 
 **Portfolio**: https://www.shmn7iii.net  
 
-**Blog**: https://blog.shmn7iii.net  
+**Blog**: https://www.shmn7iii.net/blog
 
 **Zenn**: https://zenn.dev/shmn7iii  
