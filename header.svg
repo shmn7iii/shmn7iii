@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+   width="168.31126mm"
+   height="61.296471mm"
+   viewBox="0 0 168.31126 61.296471"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient818">
+      <stop
+         style="stop-color:#ffd840;stop-opacity:1;"
+         offset="0"
+         id="stop814" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop816" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient818"
+       id="linearGradient820"
+       x1="102.27366"
+       y1="89.57412"
+       x2="102.27365"
+       y2="130.21266"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-17.948689,-68.408209)">
+    <rect
+       style="fill:url(#linearGradient820);fill-opacity:1;stroke-width:0.264583"
+       id="rect111"
+       width="168.31128"
+       height="61.296463"
+       x="17.948689"
+       y="68.408211"
+       ry="8.466363" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
+       x="69.424171"
+       y="99.564423"
+       id="text1604"><tspan
+         id="tspan1602"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="69.424171"
+         y="99.564423">shmn7iii</tspan></text>
+  </g>
+</svg>
