@@ -1,4 +1,8 @@
-<img src="https://raw.githubusercontent.com/shmn7iii/shmn7iii/main/header.svg" width="100%" />
+<!-- <img src="https://raw.githubusercontent.com/shmn7iii/shmn7iii/main/header.svg" width="100%" /> -->
+
+<div align="center">
+  <h3> 🚏 Links </h3>
+</div>
 
 <div align="center">
   <a href="https://twitter.com/shmn7iii">
